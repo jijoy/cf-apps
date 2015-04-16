@@ -1,4 +1,4 @@
-# Cuteparty-Registar
+# Apps Aggregator
 ##Overview
 This is an aggregator of all cute-party apps. 
 
